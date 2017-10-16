@@ -1,3 +1,5 @@
+package lab1;
+
 import javax.swing.*;
 public class lab1 {
     private static boolean judgeloop(String str) {
